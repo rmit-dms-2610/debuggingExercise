@@ -1,0 +1,7 @@
+#circle {
+  margin-top: 1rem;
+  width: 1rem;
+  height: 1rem;
+  background: radial-gradient(cornflowerblue, transparent);
+  border-radius: 50%;
+}
